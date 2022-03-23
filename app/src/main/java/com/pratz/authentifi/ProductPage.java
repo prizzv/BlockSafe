@@ -196,7 +196,7 @@ public class ProductPage extends AppCompatActivity {
 					//Set data
 
 					productName.setText(jsonObject.getString("model"));
-					productBrand.setText(jsonObject.getString("name"));
+					productBrand.setText(jsonObject.getString("brand"));
 					productDescription.setText(jsonObject.getString("description"));
 					productManufacturer.setText(getString(R.string.product_manufacturer,
 							jsonObject.getString("manufacturerName")+", "
