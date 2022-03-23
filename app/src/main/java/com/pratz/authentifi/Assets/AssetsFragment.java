@@ -96,7 +96,7 @@ public class AssetsFragment extends Fragment {
 					progressBar.setVisibility(View.INVISIBLE);
 					mRecyclerView.setVisibility(View.VISIBLE);
 					JSONArray jsonArray = new JSONArray(result);
-					jsonArray.remove(0);
+//					jsonArray.remove(0);
 					JSONObject tempObject;
 					assetList.clear();
 					for(int i=0; i<jsonArray.length(); i++) {
@@ -132,8 +132,8 @@ public class AssetsFragment extends Fragment {
 		super.onActivityCreated(savedInstanceState);
 
 
-		Asset asset = new Asset("somecode", "Nike", "Cloudfoam");
-		assetList.add(0, asset);
+//		Asset asset = new Asset("somecode", "Nike", "Cloudfoam");
+//		assetList.add(0, asset);
 
 		Log.i("Yolo","Activity created");
 		View view = getView();
