@@ -12,12 +12,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23e73e1c-9aff-4254-81d4-2cabbbd845cd" name="Default Changelist" comment="fixed the product page">
+    <list default="true" id="23e73e1c-9aff-4254-81d4-2cabbbd845cd" name="Default Changelist" comment="fixed the myProfile page">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pratz/authentifi/RetailerActivity/RetailerHomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pratz/authentifi/RetailerActivity/RetailerHomeFragment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_myprofile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_myprofile.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +42,13 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="D:/Shashaank/Extra/Android_app_development/Intro to android studio apps/CanteenManagementSystem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shashaank\Downloads\Compressed\BlockSafe\app\src\main\res" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
@@ -131,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648062027269</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed the myProfile page">
+      <created>1648103403735</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648103403735</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +159,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added icon" />
     <MESSAGE value="fixed the product page" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed the product page" />
+    <MESSAGE value="fixed the myProfile page" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed the myProfile page" />
   </component>
 </project>

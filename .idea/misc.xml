@@ -3,9 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/font/poppins_bold.xml" value="0.39947916666666666" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/activity_buy.xml" value="0.338768115942029" />
         <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/activity_login.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/activity_login_retailer.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/activity_main.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/activity_main_retailer.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/activity_product_page.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/activity_sell.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/activity_signup.xml" value="0.338768115942029" />
         <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/activity_viewfind.xml" value="0.184375" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/asset_item.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/buy_item.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/fragment_assets.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/fragment_buy_step0.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/fragment_buy_step1.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/fragment_buy_step2.xml" value="0.338768115942029" />
         <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/fragment_myprofile.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/fragment_retailer_home.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/fragment_sell_step0.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/fragment_sell_step1.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/fragment_sell_step2.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/layout/progressbar_loading.xml" value="0.338768115942029" />
         <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.348" />
         <entry key="..\:/Users/Shashaank/Downloads/Compressed/BlockSafe/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.348" />
       </map>
