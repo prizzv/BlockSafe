@@ -131,11 +131,9 @@ public class RetailerHomeFragment extends Fragment {
 			@Override
 			public void onErrorResponse(VolleyError error) {
 
-				Toast toast = Toast.makeText(getContext(),
-						"Could not connect to server, please try again.",
-						Toast.LENGTH_LONG);
-
-				toast.show();
+//				Toast toast = Toast.makeText(getContext(),
+//						"Could not connect to server, please try again.",
+//						Toast.LENGTH_LONG).show();
 			}
 		});
 

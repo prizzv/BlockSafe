@@ -10,9 +10,6 @@
     android:fillViewport="true">
 
 <ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true">
@@ -66,9 +63,9 @@
             android:id="@+id/_inputName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="8dp"
             android:layout_marginStart="8dp"
-            android:text="Kyle Lobo"
+            android:layout_marginEnd="8dp"
+            android:text="Pranav Trivedi"
             android:textAlignment="center"
             android:textColor="@color/TextLight"
             android:textSize="21sp"
@@ -185,11 +182,10 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:text="Mumbai"
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/black"
             android:textSize="16sp"
             app:layout_constraintBaseline_toBaselineOf="@+id/textview_location"
-            app:layout_constraintStart_toEndOf="@+id/textview_location"
-            android:layout_marginLeft="8dp" />
+            app:layout_constraintStart_toEndOf="@+id/textview_location" />
 
         <TextView
             android:id="@+id/textview_status"
