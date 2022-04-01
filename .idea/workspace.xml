@@ -12,10 +12,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23e73e1c-9aff-4254-81d4-2cabbbd845cd" name="Default Changelist" comment="Updated the activity_login.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-    </list>
+    <list default="true" id="23e73e1c-9aff-4254-81d4-2cabbbd845cd" name="Default Changelist" comment="Corrected color" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648105570090</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Corrected color">
+      <created>1648114152203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648114152203</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +171,7 @@
     <MESSAGE value="fixed the product page" />
     <MESSAGE value="fixed the myProfile page" />
     <MESSAGE value="Updated the activity_login.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the activity_login.xml" />
+    <MESSAGE value="Corrected color" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected color" />
   </component>
 </project>

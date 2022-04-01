@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
 	TextView title;
 	ImageButton profileButton, closeButton;
-	FloatingActionButton scanButton;
+//	FloatingActionButton scanButton;
 
 	private void askForPermission(String permission, Integer requestCode) {
 		if (ContextCompat.checkSelfPermission(MainActivity.this, permission) != PackageManager.PERMISSION_GRANTED) {
@@ -112,25 +112,25 @@ public class MainActivity extends AppCompatActivity {
 			}
 		});
 
-		scanButton = (FloatingActionButton)findViewById(R.id.scan_button);
-		scanButton.setOnClickListener(new View.OnClickListener() {
-			@Override
-			public void onClick(View v) {
-			//	Intent intent = new Intent(MainActivity.this, Viewfind.class);
-			//	startActivity(intent);
-
-				Intent intent = new IntentIntegrator(MainActivity.this)
-						.setPrompt("Scan a product")
-						.setOrientationLocked(false)
-						.createScanIntent();
-
-				intent.putExtra("retailer", "0");
-
-				startActivityForResult(intent, 0);
-
-
-			}
-		});
+//		scanButton = (FloatingActionButton)findViewById(R.id.scan_button);
+//		scanButton.setOnClickListener(new View.OnClickListener() {
+//			@Override
+//			public void onClick(View v) {
+//			//	Intent intent = new Intent(MainActivity.this, Viewfind.class);
+//			//	startActivity(intent);
+//
+//				Intent intent = new IntentIntegrator(MainActivity.this)
+//						.setPrompt("Scan a product")
+//						.setOrientationLocked(false)
+//						.createScanIntent();
+//
+//				intent.putExtra("retailer", "0");
+//
+//				startActivityForResult(intent, 0);
+//
+//
+//			}
+//		});
 
 
 
